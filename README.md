@@ -4,6 +4,9 @@
 <b>Description: </b> ML model allowing Salvadoran policy makers to predict school dropouts.<br/>
 <b>Last updated:</b> July 28th 2024
 
+## Context ℹ
+This project is a revision of an earlier version I worked during high school. My earlier version implemented simple regression techniques, and so I wanted to take it to a new level.
+
 ## Problem 👎
 
 Salvadorean students are leaving schools. Policy makers need data-driven models to predict how their policies impact school dropout rates.
