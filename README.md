@@ -2,7 +2,8 @@
 
 <b>Author:</b> Guillermo Avelar  
 <b>Description: </b> ML model allowing Salvadoran policy makers to predict school dropouts.<br/>
-<b>Last updated:</b> July 28th 2024
+<b>Last updated:</b> July 31st 2024<br/>
+<b>Status:</b> Work in Progress
 
 ## Context ℹ
 This project is a revision of an earlier version I worked during high school. My earlier version implemented simple regression techniques, and so I wanted to take it to a new level.
