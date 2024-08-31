@@ -14,7 +14,7 @@ Salvadorean students are leaving schools. Policy makers need data-driven models 
 
 ## Solution 🔥
 
-Create a machine learning model to predict school dropouts based on a variety of school factors.
+Train a CatBoost ML model to predict dropouts after extensive feature engineering. 
 
 ## Project Organization 🧱
 
